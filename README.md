@@ -8,7 +8,7 @@ Inconsistent behaviour in selection of environment variable when running a proje
 
 This appears to have the same underlying cause or could be a duplicate of:
 - https://github.com/dotnet/aspnetcore/issues/31365
-- https://github.com/dotnet/aspnetcore/issues/23183
+- https://github.com/dotnet/sdk/issues/23183
 - https://github.com/dotnet/aspnetcore/issues/44363
 - https://github.com/dotnet/aspnetcore/issues/38408
 - https://github.com/dotnet/aspnetcore/issues/31654
